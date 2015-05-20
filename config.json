@@ -1,0 +1,10 @@
+{
+    "AppSettings": {
+        "SiteTitle": "fagkveld1"
+    },
+    "Data": {
+        "DefaultConnection": {
+            "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-fagkveld1-9d9764cd-2f91-4446-b30a-de19b6b64c3b;Trusted_Connection=True;MultipleActiveResultSets=true"
+        }
+    }
+}
